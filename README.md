@@ -6,7 +6,7 @@ no LED indicator
 must reset system to run motor again
 
 # V2 is the final version of the code
-## Folder contains PCB design, BOM and code
+### Folder contains PCB design, BOM and code
 Button is wired to digital pin
 LED blinks on standby
 LED solid when running motor
